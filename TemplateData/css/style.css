@@ -84,7 +84,7 @@ body{
 
 #progressBar,#warningBrowserBlock,#warningMobileBlock,#errorContent{
 	height:25vh;
-	width:40vw;
+	width:20vw;
 	margin:auto;
 	text-align: center;
 }
